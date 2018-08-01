@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Banana &amp; Camel</string>
+    <string name="negresult">Oops! No enough banana to sell</string>
+    <string name="nil">Nil</string>
+    <string name="posresult">The maximum banana he can sell</string>
+    <string name="toastlessdistance">Distance must range between 1000 and 10000</string>
+    <string name="toastlessbanana">Total banana must not less than 3000</string>
+    <string name="toastemptyfield">Entries must be filled</string>
+</resources>
